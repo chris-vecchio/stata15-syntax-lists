@@ -1,5 +1,5 @@
 # Stata 15 function and command lists
-A process to generate lists of Stata commands and functions in csv format. I needed lists of all Stata functions and commands to update a Sublime Text 3 syntax file from Stata 14 to Stata 15. A quick google search turned up other Stata users looking for similar lists. I never found a complete solution so I decided to make my own. I (very) briefly describe the process I used for functions and commands. I've included all files needed to duplicate the process in the repo. Disclaimer: I haven't gone over the results in detail so please let me know if you see something incorrect or missing. Thanks and enjoy!
+I needed lists of all Stata functions and commands to update a Sublime Text 3 syntax file from Stata 14 to Stata 15. A quick google search turned up other Stata users looking for similar lists. I never found a complete solution so I decided to make my own. I (very) briefly describe the process I used for functions and commands. I've included all files needed to duplicate the process in the repo. Disclaimer: I haven't gone over the results in detail so please let me know if you see something incorrect or missing. Thanks and enjoy!
 
 
 ## Functions
